@@ -20,8 +20,11 @@ A lightweight and efficient RESTful API built with **FastAPI** for managing pati
 ## 📁 Project Structure
 
 ├── main.py # FastAPI app with CRUD endpoints and Pydantic models (Patient, PatientUpdate)
+
 ├── data.json # Patient data storage
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ## ⚙️ Setup Instructions
